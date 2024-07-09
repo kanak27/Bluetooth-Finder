@@ -36,7 +36,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/bluetooth-finder.git
+    git clone https://github.com/kanak27/Bluetooth-Finder.git
     ```
 
 2. **Open the project in Android Studio:**
